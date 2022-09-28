@@ -1,0 +1,386 @@
+[
+  {
+    "score": 0.4152336,
+    "show": {
+      "id": 1998,
+      "url": "https://www.tvmaze.com/shows/1998/freddie",
+      "name": "Freddie",
+      "type": "Scripted",
+      "language": "English",
+      "genres": ["Comedy"],
+      "status": "Ended",
+      "runtime": 30,
+      "averageRuntime": 30,
+      "premiered": "2005-10-12",
+      "ended": "2006-05-31",
+      "officialSite": null,
+      "schedule": { "time": "20:30", "days": ["Wednesday"] },
+      "rating": { "average": null },
+      "weight": 43,
+      "network": {
+        "id": 3,
+        "name": "ABC",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": "https://abc.com/"
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": { "tvrage": 3604, "thetvdb": 79276, "imdb": "tt00460640" },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/11/28066.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/11/28066.jpg"
+      },
+      "summary": "<p>A successful chef living in Chicago inherits three generations of family: his niece, his sister-in-law, and his grandmother; and learns to survive living with three very different women.</p>",
+      "updated": 1657243273,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/1998" },
+        "previousepisode": { "href": "https://api.tvmaze.com/episodes/161411" }
+      }
+    }
+  },
+  {
+    "score": 0.2993009,
+    "show": {
+      "id": 23636,
+      "url": "https://www.tvmaze.com/shows/23636/freddie-down-under",
+      "name": "Freddie Down Under",
+      "type": "Documentary",
+      "language": "English",
+      "genres": ["Adventure", "Food", "Travel"],
+      "status": "Ended",
+      "runtime": 44,
+      "averageRuntime": 45,
+      "premiered": "2016-12-03",
+      "ended": "2017-01-07",
+      "officialSite": "https://www.sky.com/watch/channel/sky-1/freddie-down-under",
+      "schedule": { "time": "", "days": ["Saturday"] },
+      "rating": { "average": null },
+      "weight": 36,
+      "network": {
+        "id": 63,
+        "name": "Sky Showcase",
+        "country": {
+          "name": "United Kingdom",
+          "code": "GB",
+          "timezone": "Europe/London"
+        },
+        "officialSite": null
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": { "tvrage": null, "thetvdb": null, "imdb": null },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/175/438496.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/175/438496.jpg"
+      },
+      "summary": "<p>Freddie and Rob embark on an epic adventure across Australia seeking new experiences, meeting some unforgettable locals and cooking a few BBQs along the way.</p>",
+      "updated": 1576974032,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/23636" },
+        "previousepisode": { "href": "https://api.tvmaze.com/episodes/1020271" }
+      }
+    }
+  },
+  {
+    "score": 0.28969437,
+    "show": {
+      "id": 11504,
+      "url": "https://www.tvmaze.com/shows/11504/on-freddie-roach",
+      "name": "On Freddie Roach",
+      "type": "Documentary",
+      "language": "English",
+      "genres": [],
+      "status": "Ended",
+      "runtime": 30,
+      "averageRuntime": 30,
+      "premiered": "2012-01-20",
+      "ended": "2012-02-24",
+      "officialSite": "http://www.hbo.com/on-freddie-roach/",
+      "schedule": { "time": "21:30", "days": ["Friday"] },
+      "rating": { "average": null },
+      "weight": 31,
+      "network": {
+        "id": 8,
+        "name": "HBO",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": "https://www.hbo.com/"
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": { "tvrage": null, "thetvdb": 254984, "imdb": "tt2192539" },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/38/96922.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/38/96922.jpg"
+      },
+      "summary": "<p>HBO and Emmy-nominated filmmaker Peter Berg will team up for the new primetime series 'On Freddie Roach.' The cinéma-vérité series focuses on Freddie Roach, the world-famous boxing trainer who owns and operates the famed Wild Card Boxing Club in Hollywood, where he has produced a host of world champions. This intensely personal look at Roach chronicles his life and career against the backdrop of Parkinson's disease, an ailment very likely linked to his own boxing past.</p>",
+      "updated": 1577605887,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/11504" },
+        "previousepisode": { "href": "https://api.tvmaze.com/episodes/566723" }
+      }
+    }
+  },
+  {
+    "score": 0.28681788,
+    "show": {
+      "id": 48376,
+      "url": "https://www.tvmaze.com/shows/48376/total-wipeout-freddie-and-paddy-takeover",
+      "name": "Total Wipeout: Freddie and Paddy Takeover",
+      "type": "Variety",
+      "language": "English",
+      "genres": ["Comedy"],
+      "status": "Ended",
+      "runtime": 40,
+      "averageRuntime": 40,
+      "premiered": "2020-08-08",
+      "ended": "2020-09-12",
+      "officialSite": "https://www.bbc.co.uk/programmes/p08dksn0",
+      "schedule": { "time": "19:10", "days": ["Saturday"] },
+      "rating": { "average": null },
+      "weight": 64,
+      "network": {
+        "id": 12,
+        "name": "BBC One",
+        "country": {
+          "name": "United Kingdom",
+          "code": "GB",
+          "timezone": "Europe/London"
+        },
+        "officialSite": "https://www.bbc.co.uk/bbcone"
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": { "tvrage": null, "thetvdb": null, "imdb": null },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/268/670106.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/268/670106.jpg"
+      },
+      "summary": "<p>Paddy McGuinness and Freddie Flintoff add unique banter and hilarious commentary to classic Total Wipeout episodes, as brave contestants tackle iconic games and the big red balls.</p>",
+      "updated": 1641052278,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/48376" },
+        "previousepisode": { "href": "https://api.tvmaze.com/episodes/1922400" }
+      }
+    }
+  },
+  {
+    "score": 0.26799923,
+    "show": {
+      "id": 3048,
+      "url": "https://www.tvmaze.com/shows/3048/big-freedia-queen-of-bounce",
+      "name": "Big Freedia: Queen of Bounce",
+      "type": "Variety",
+      "language": "English",
+      "genres": ["Music"],
+      "status": "Running",
+      "runtime": 30,
+      "averageRuntime": 30,
+      "premiered": "2013-10-02",
+      "ended": null,
+      "officialSite": "http://www.fuse.tv/shows/big-freedia",
+      "schedule": { "time": "22:00", "days": ["Tuesday"] },
+      "rating": { "average": null },
+      "weight": 37,
+      "network": {
+        "id": 186,
+        "name": "FUSE TV",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        },
+        "officialSite": null
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": { "tvrage": 38024, "thetvdb": 280555, "imdb": "tt3012492" },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/16/41836.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/16/41836.jpg"
+      },
+      "summary": "<p>The Queen Diva is back for another season of his critically acclaimed series! Following the success of his first US tour, season 4 finds <b>Big Freedia: Queen of Bounce</b> juggling a slew of new creative opportunities that could expand his empire just as health concerns could derail his career. While team prepares for a European tour, dancers Skip &amp; Flash both pursue their own dreams, and Freedia's ex-boyfriend Devon tries to win back his Queen.</p>",
+      "updated": 1624610604,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/3048" },
+        "previousepisode": { "href": "https://api.tvmaze.com/episodes/1352372" }
+      }
+    }
+  },
+  {
+    "score": 0.25638154,
+    "show": {
+      "id": 39829,
+      "url": "https://www.tvmaze.com/shows/39829/freddie-flintoff-goes-wild",
+      "name": "Freddie Flintoff Goes Wild",
+      "type": "Reality",
+      "language": "English",
+      "genres": ["Adventure", "Nature", "Travel"],
+      "status": "Ended",
+      "runtime": 60,
+      "averageRuntime": 60,
+      "premiered": "2012-05-24",
+      "ended": "2014-09-17",
+      "officialSite": null,
+      "schedule": { "time": "", "days": ["Thursday"] },
+      "rating": { "average": null },
+      "weight": 25,
+      "network": {
+        "id": 143,
+        "name": "Discovery Channel",
+        "country": {
+          "name": "United Kingdom",
+          "code": "GB",
+          "timezone": "Europe/London"
+        },
+        "officialSite": null
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": { "tvrage": null, "thetvdb": 259521, "imdb": "tt2232602" },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/175/438461.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/175/438461.jpg"
+      },
+      "summary": "<p><b>Freddie Flintoff Goes Wild</b> is a series of epic wildlife adventures and extreme experiences. In his own inimitable style Freddie takes us on a journey into the wild and shows us some of the world's most exciting spectacles as we've never seen them before. In the midst of it, experiencing the fear, excitement, joy and wonder of being up close and personal with nature at its most spectacular. On his journeys he goes to different wildernesses in Tanzania, Australia, Borneo and Canada. </p>",
+      "updated": 1542835633,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/39829" },
+        "previousepisode": { "href": "https://api.tvmaze.com/episodes/1568925" }
+      }
+    }
+  },
+  {
+    "score": 0.24609694,
+    "show": {
+      "id": 46114,
+      "url": "https://www.tvmaze.com/shows/46114/universal-credit-inside-the-welfare-state",
+      "name": "Universal Credit: Inside the Welfare State",
+      "type": "Documentary",
+      "language": "English",
+      "genres": [],
+      "status": "To Be Determined",
+      "runtime": 60,
+      "averageRuntime": 60,
+      "premiered": "2020-02-04",
+      "ended": null,
+      "officialSite": "https://www.bbc.co.uk/programmes/m000f1xj",
+      "schedule": { "time": "21:00", "days": ["Tuesday"] },
+      "rating": { "average": null },
+      "weight": 34,
+      "network": {
+        "id": 37,
+        "name": "BBC Two",
+        "country": {
+          "name": "United Kingdom",
+          "code": "GB",
+          "timezone": "Europe/London"
+        },
+        "officialSite": "https://www.bbc.co.uk/bbctwo"
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": { "tvrage": null, "thetvdb": 376657, "imdb": null },
+      "image": null,
+      "summary": "<p>Series following the people designing the new benefit system, the staff in Jobcentres and the claimants living on Universal Credit.</p>",
+      "updated": 1591581121,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/46114" },
+        "previousepisode": { "href": "https://api.tvmaze.com/episodes/1797845" }
+      }
+    }
+  },
+  {
+    "score": 0.23820445,
+    "show": {
+      "id": 16816,
+      "url": "https://www.tvmaze.com/shows/16816/freddie-flintoff-vs-the-world",
+      "name": "Freddie Flintoff vs the World",
+      "type": "Documentary",
+      "language": "English",
+      "genres": [],
+      "status": "Ended",
+      "runtime": 60,
+      "averageRuntime": 60,
+      "premiered": "2011-02-01",
+      "ended": "2011-03-15",
+      "officialSite": null,
+      "schedule": { "time": "21:00", "days": ["Tuesday"] },
+      "rating": { "average": null },
+      "weight": 23,
+      "network": {
+        "id": 310,
+        "name": "ITV4",
+        "country": {
+          "name": "United Kingdom",
+          "code": "GB",
+          "timezone": "Europe/London"
+        },
+        "officialSite": null
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": { "tvrage": null, "thetvdb": 249328, "imdb": "tt1868521" },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/56/140466.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/56/140466.jpg"
+      },
+      "summary": "<p>This new series sees cricketing legend and ultimate bloke Freddie Flintoff try his hand at some of the most extreme sports and challenges on offer around the world. But, ever the competitive sportsman, he won't be trying anything out without turning it into a competition so he's also enlisted other athletes who retired at the top of their game to see if they can beat him.</p>",
+      "updated": 1542836426,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/16816" },
+        "previousepisode": { "href": "https://api.tvmaze.com/episodes/779290" }
+      }
+    }
+  },
+  {
+    "score": 0.16945665,
+    "show": {
+      "id": 62720,
+      "url": "https://www.tvmaze.com/shows/62720/freddie-flintoffs-field-of-dreams",
+      "name": "Freddie Flintoff's Field of Dreams",
+      "type": "Reality",
+      "language": "English",
+      "genres": ["Sports"],
+      "status": "Running",
+      "runtime": 60,
+      "averageRuntime": 60,
+      "premiered": "2022-07-05",
+      "ended": null,
+      "officialSite": "https://www.bbc.co.uk/programmes/m00190pg",
+      "schedule": { "time": "", "days": ["Tuesday"] },
+      "rating": { "average": null },
+      "weight": 7,
+      "network": {
+        "id": 12,
+        "name": "BBC One",
+        "country": {
+          "name": "United Kingdom",
+          "code": "GB",
+          "timezone": "Europe/London"
+        },
+        "officialSite": "https://www.bbc.co.uk/bbcone"
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": { "tvrage": null, "thetvdb": null, "imdb": null },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/415/1038302.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/415/1038302.jpg"
+      },
+      "summary": "<p>Sporting legend Freddie Flintoff takes on his toughest challenge yet, creating a cricket team from scratch. But can he inspire the next generation to give cricket a chance?</p>",
+      "updated": 1657465871,
+      "_links": {
+        "self": { "href": "https://api.tvmaze.com/shows/62720" },
+        "previousepisode": { "href": "https://api.tvmaze.com/episodes/2358030" }
+      }
+    }
+  }
+]
